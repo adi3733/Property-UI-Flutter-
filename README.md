@@ -7,6 +7,7 @@ It showcases property details like images, description, owner information, and b
 ---
 
 ## 📸 Screenshot
+<img width="1080" height="2400" alt="Screenshot_1757271507" src="https://github.com/user-attachments/assets/0f3cde89-0c3f-413d-9afc-2fd19b21af0d" />
 
 
 ---
